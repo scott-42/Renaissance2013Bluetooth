@@ -1,0 +1,6 @@
+[submodule "kstechnologies/Presentation"]
+	path = kstechnologies/Presentation
+	url = https://github.com/kstechnologies/Renaissance2013.git
+[submodule "kstechnologies/BTLE_Transfer"]
+	path = kstechnologies/BTLE_Transfer
+	url = https://github.com/kstechnologies/BTLE_Transfer.git
