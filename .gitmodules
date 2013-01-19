@@ -4,3 +4,6 @@
 [submodule "kstechnologies/BTLE_Transfer"]
 	path = kstechnologies/BTLE_Transfer
 	url = https://github.com/kstechnologies/BTLE_Transfer.git
+[submodule "bluegiga"]
+	path = bluegiga
+	url = https://github.com/jrowberg/bluegiga
